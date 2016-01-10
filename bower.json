@@ -1,5 +1,5 @@
 {
-  "name": "av",
+  "name": "aurora.js",
   "description": "Audio decoding framework",
   "version": "0.4.8",
   "author": {
@@ -21,6 +21,6 @@
     "bower_slim.coffee",
     "node.coffee",
     "package.json",
-    ".*",
+    ".*"
   ]
 }
