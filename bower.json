@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Switch168/aurora.js.git"
+    "url": "git://github.com/Switch168/aurora.js.git"
   },
   "bugs": "https://github.com/audiocogs/aurora.js/issues",
   "ignore": [
