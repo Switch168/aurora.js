@@ -18,9 +18,8 @@
     "tests",
     "node_modules",
     "Makefile",
-    "bower_slim.coffee",
-    "node.coffee",
-    "package.json",
+    "*.coffee",
+    "*.json",
     ".*"
   ]
 }
