@@ -1,0 +1,22 @@
+{
+  "name": "av",
+  "description": "Audio decoding framework",
+  "version": "0.4.8",
+  "author": {
+    "name": "Audiocogs",
+    "url": "http://audiocogs.org/"
+  },
+  "main": "aurora.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Switch168/aurora.js.git"
+  },
+  "bugs": "https://github.com/audiocogs/aurora.js/issues",
+  "ignore": [
+    "src",
+    "tests",
+    "node_modules",
+    ".*"
+  ]
+}
